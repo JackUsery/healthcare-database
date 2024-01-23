@@ -31,3 +31,5 @@ Discharge Date: Date when the patient was discharged
 Medication: Information about prescribed medications
 
 Test Results: Results of diagnostic tests conducted during the treatment
+
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset
