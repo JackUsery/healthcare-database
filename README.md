@@ -1,4 +1,4 @@
-This database contains comprehensive information related to patient health records, ensuring efficient and secure management of medical data. Each entry includes essential details such as Name, Age, Gender, Blood Type, Medical Condition, Date of Admission, Attending Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, and Test Results.
+This is a synthetic healthcare dataset that contains comprehensive information related to patient health records, ensuring efficient and secure management of medical data. Each entry includes essential details such as Name, Age, Gender, Blood Type, Medical Condition, Date of Admission, Attending Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, and Test Results.
 
 Fields:
 
